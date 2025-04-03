@@ -1,6 +1,6 @@
 # ron4ldblue
 
-# terra-bella
+# Ronaldo de Oliveira
 # RON | Resumos Git e Github
 
 Repositório para armazenar resumos sobre Git e Github do curso Versionamento de Código com git e Github da [Digital Inovation One] (https://web.dio.me/).
