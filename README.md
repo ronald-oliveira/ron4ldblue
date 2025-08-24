@@ -15,7 +15,7 @@ Repositório para armazenar resumos sobre Git e Github do curso Versionamento de
 
 | Aulas | Resumos |
 | ----- | ------- |
-|Gravando Alterações no Repositório Local | [Resumos] (https://github.com/ronald-olive/meu-projeto.git) |
+|Gravando Alterações no Repositório Local | [Resumos] <https://github.com/ronald-olive/meu-projeto.git> |
 
 ---
 git init  
